@@ -10,3 +10,7 @@
 
 ## Как запустить
 Откройте `index.html` в браузере.
+
+## 🌐 Доступ к сайту
+Проект размещён на GitHub Pages:  
+[https://klerikv.github.io/html_project_chatbot/](https://klerikv.github.io/html_project_chatbot/)
